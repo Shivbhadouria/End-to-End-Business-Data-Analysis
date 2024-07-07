@@ -100,7 +100,10 @@ Troubleshooting:
 
 If everything works as expected, enjoy. Otherwise, re-check the configurations and retry.
 
-Project Architecture
+## Project Architecture
+
 <img src="architecture.png">
-Database ER Diagram
+
+## Database ER Diagram
+
 <img src="database_schema.drawio.png">
