@@ -1,4 +1,4 @@
-# End-to-End Business Data Analysi
+# End-to-End Business Data Analysis
 
 ## Overview
 
