@@ -68,7 +68,7 @@ my_project/
 │   ├── test/
 │   │    ├── scratch_pad.py
 │   │    └── generate_csv_data.py
-
+```
 
 How to Run the Program in PyCharm
 
