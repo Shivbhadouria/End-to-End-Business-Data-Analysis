@@ -1,6 +1,4 @@
-# my_project
-
-![Project Icon](https://via.placeholder.com/50)
+# End-to-End Business Data Analysi
 
 ## Overview
 
@@ -72,7 +70,6 @@ my_project/
 │   │    └── generate_csv_data.py
 
 
-
 How to Run the Program in PyCharm
 
 Open PyCharm Editor:
@@ -102,6 +99,8 @@ Use the green play button on the top right-hand side in PyCharm to run main.py.
 Troubleshooting:
 
 If everything works as expected, enjoy. Otherwise, re-check the configurations and retry.
-Project Architecture
 
+Project Architecture
+<img src="architecture.png">
 Database ER Diagram
+<img src="database_schema.drawio.png">
